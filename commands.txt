@@ -1,0 +1,17 @@
+!add [channel-id] [token] (BOT MAKERS ONLY) يضيف بوت لروم
+!play [YouTube-URL or Search Text] يشغل اغنية أو يضيفها للبلاي ليست
+!play-at [position] [YouTube-URL Search Text] (BOT MAKERS ONLY) يشغل الاغنية أو يحطها في مكان معين في البلاي ليست
+!play-at [YouTube-URL or Search Text] (BOT MAKERS ONLY) يشغل الاغنية مباشرة
+!skip يتخطى الاغنية
+!stop يوقف الاغنية
+!vol [volume] يغير مستوى صوت الاغنية
+!pause يوقف مؤقتًا الاغنية
+!resume يتابع تشغيل الاغنية
+!info يطلع عنوانين الاغاني اللي بالبلاي ليست
+!played-by يطلع من شغل الاغنية الحالية
+!replay يضيف الاغنية الحالية للبلاي ليست
+!replay-at [position] (BOT MAKERS ONLY) يعيد تشغيل الاغنية الحالية أو يحطها الاغنية الحالية في مكان معين في البلاي ليست
+!replay-at (BOT MAKERS ONLY) يعيد تشغيل الاغنية مباشرة
+!link يطلع رابط الاغنية الحالية
+!lock (BOT MAKERS ONLY) "Bot Makers ." يخلي البوت ما يقبل الأوامر إلا من اللي عنده رتبة
+!unlock (BOT MAKERS ONLY) يخلي البوت يقبل الأوامر من أي شخص

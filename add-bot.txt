@@ -1,0 +1,7 @@
+https://discordapp.com/oauth2/authorize?client_id=INSERT_CLIENT_ID_HERE&scope=bot&permissions=70257664
+
+Change Nickname
+Read Text Channels & See Voice Channels
+Send Messages
+Connect
+Speak
